@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Source+Sans+Pro&display=swap');
+
+body {
+          font-family: 'Poppins', sans-serif;
+}
+
+big-title {
+   font-size: 3.4rem !important;
+   color: #333;
+}
+mid-title {
+   font-size: 2.2rem !important;
+   color: #333;
+}
+sm-title {
+   font-size: 1.4rem !important;
+   color: #333;
+}
+
